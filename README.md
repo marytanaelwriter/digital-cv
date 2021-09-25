@@ -64,42 +64,40 @@ _An experienced writer and editor seeking technical writing opportunities_
 ## 📚 Certifications  
 
 **Technical Writing: Quick Start Guides**  
-@ [LinkedIn Learning](https://www.google.com/?client=safari) *(Issued September 2021)*  
+[LinkedIn Learning](https://www.google.com/?client=safari) *(Issued September 2021)*  
 
 
 **HTML Essential Training**  
-@ [LinkedIn Learning](https://www.google.com/?client=safari) *(Issued September 2021)*  
+[LinkedIn Learning](https://www.google.com/?client=safari) *(Issued September 2021)*  
 
 
 **Learning Markdown**  
-@ [LinkedIn Learning](https://www.google.com/?client=safari) *(Issued September 2021)*  
+[LinkedIn Learning](https://www.google.com/?client=safari) *(Issued September 2021)*  
 
 
 **Software Development Life Cycle (SDLC)**  
-@ [LinkedIn Learning](https://www.google.com/?client=safari) *(Issued September 2021)*  
+[LinkedIn Learning](https://www.google.com/?client=safari) *(Issued September 2021)*  
 
 
 **Google SEO Fundamentals**  
-@ [Coursera](https://www.google.com/?client=safari) *(Issued July 2021)*  
+[Coursera](https://www.google.com/?client=safari) *(Issued July 2021)*  
 
 
 **Introduction to Google SEO**  
-@ [Coursera](https://www.google.com/?client=safari) *(Issued January 2021)*  
+[Coursera](https://www.google.com/?client=safari) *(Issued January 2021)*  
 
 
 **Content Strategy for Professionals: Managing Content**  
-@ [Coursera](https://www.google.com/?client=safari) *(Issued May 2021)*  
+[Coursera](https://www.google.com/?client=safari) *(Issued May 2021)*  
 
 
 **Content Strategy for Professionals: Engaging Audiences**  
-@ [Coursera](https://www.google.com/?client=safari) *(Issued January 2021)*  
+[Coursera](https://www.google.com/?client=safari) *(Issued January 2021)*  
 
 
 ## 🗣️ Languages 
 
 **Tagalog**: Native or bilingual proficiency
-
 **English**: Native or bilingual proficiency
-
 **Spanish**: Elementary proficiency
 
