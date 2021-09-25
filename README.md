@@ -1,6 +1,5 @@
 # Mary Antonette Tanael
 _An experienced writer and editor seeking technical writing opportunities_  
-_Based in the Philippines_ 🇵🇭  
 
 [Email](mailto:marytanaelwriter@gmail.com)/ [LinkedIn](https://www.linkedin.com/in/marytanaelwriter)/ [GitHub](https://github.com/marytanaelwriter)  
 ## 👩‍💻 Skills
@@ -64,21 +63,21 @@ _Based in the Philippines_ 🇵🇭
 
 ## 📚 Certifications  
 
-**Technical Writing: Quick Start Guides** | LinkedIn Learning *(Issued September 2021)*  
+**Technical Writing: Quick Start Guides**  @ [LinkedIn Learning](https://www.google.com/?client=safari) *(Issued September 2021)*
 
-**HTML Essential Training** | LinkedIn Learning *(Issued September 2021)*  
+**HTML Essential Training** @ [LinkedIn Learning](https://www.google.com/?client=safari) *(Issued September 2021)*  
 
-**Learning Markdown** | LinkedIn Learning (Issued September 2021)*  
+**Learning Markdown** @ [LinkedIn Learning](https://www.google.com/?client=safari) *(Issued September 2021)*  
 
-**Software Development Life Cycle (SDLC)** | LinkedIn Learning *(Issued September 2021)*  
+**Software Development Life Cycle (SDLC)** @ [LinkedIn Learning](https://www.google.com/?client=safari) *(Issued September 2021)*  
 
-**Google SEO Fundamentals** | Coursera *(Issued July 2021)*  
+**Google SEO Fundamentals** @ [Coursera](https://www.google.com/?client=safari) *(Issued July 2021)*  
 
-**Introduction to Google SEO** | Coursera *(Issued January 2021)*  
+**Introduction to Google SEO** @ [Coursera](https://www.google.com/?client=safari) *(Issued January 2021)*  
 
-**Content Strategy for Professionals: Managing Content** | Coursera *(Issued May 2021)*  
+**Content Strategy for Professionals: Managing Content** @ [Coursera](https://www.google.com/?client=safari) *(Issued May 2021)*  
 
-**Content Strategy for Professionals: Engaging Audiences** | Coursera *(Issued January 2021)*  
+**Content Strategy for Professionals: Engaging Audiences** @ [Coursera](https://www.google.com/?client=safari) *(Issued January 2021)*  
 
 ## 🗣️ Languages 
 
