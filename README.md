@@ -2,7 +2,7 @@
 _An experienced writer and editor seeking technical writing opportunities_  
 
 [Email](mailto:marytanaelwriter@gmail.com)/ [LinkedIn](https://www.linkedin.com/in/marytanaelwriter)/ [GitHub](https://github.com/marytanaelwriter)  
-## Skills
+## 👩‍💻 Skills
 ### Writing and Editing Skills
 
  - 3+ years experience in content writing and editing 
@@ -24,11 +24,11 @@ _An experienced writer and editor seeking technical writing opportunities_
 - Basic knowledge of Git, GitHub, and version control systems
 - Basic familiarity with the Software Development Life Cycle (SDLC) and software architecture  
  
-## Work Experience
+## 💼 Work Experience
 **Freelance Content Writer** *(October 2018 to Present)*
 - Writes blog posts, meta descriptions, and website copies
 - Creates how-to articles and troubleshooting guides on consumer electronics
-- Self-edits the articles for grammar, clarity, and readability. 
+- Self-edits the articles for grammar, clarity, and readability 
 
 **Project Manager** @ [SEO Hacker](https://seo-hacker.com/) *(April 2018 to August 2018)*
 - Handled multiple projects for different clients
@@ -45,14 +45,14 @@ _An experienced writer and editor seeking technical writing opportunities_
 **Content Writer** @ [SEO Hacker](https://seo-hacker.com/) *(December 2017 to February 2018)*
 - Produced high-quality blog posts, landing pages, website copies, and social media captions  
 
-## Education
-**Bachelor of Arts in Creative Writing** @ [UP Diliman](https://upd.edu.ph/) *2014 to 2017*
+## 🎓 Education
+**Bachelor of Arts in Creative Writing** @ [UP Diliman](https://upd.edu.ph/) *(2014 to 2017)*
 - Graduated with honors (*cum laude*)
 - Has taken courses in fiction, nonfiction, poetry, and professional writing
 - Has written essays, creative works, and critical papers
 - Has done extensive research on literature, media, and the social sciences
 
-**Bachelor of Science in Applied Physics** @ [UP Diliman](https://upd.edu.ph/) *2013 to 2014*
+**Bachelor of Science in Applied Physics** @ [UP Diliman](https://upd.edu.ph/) *(2013 to 2014)*
 - Graduated with honors (*cum laude*)
 - Has taken courses in:
   -  College algebra
@@ -62,7 +62,9 @@ _An experienced writer and editor seeking technical writing opportunities_
   -  Mathematical physics
   -  Computer science
 
-## Certifications 
+## 📚 Certifications 
 
-
+## 🗣️ Languages
+**Tagalog**: Native
+**English**: Bilingual
 
