@@ -6,14 +6,14 @@ _An experienced writer and editor seeking technical writing opportunities_
 ### Writing and Editing Skills
 
  - 3+ years experience in content writing and editing 
- - General knowledge of technical writing 
+ - General knowledge of technical writing
  - Copywriting 
  - Content strategy 
  - Blog management
  - Proofreading and editing 
  - Search Engine Optimization (SEO)
 
-### IT Skills
+### Technical Skills
 - Familiarity with Microsoft Office products (word, excel, etc)
 - Familiarity with Google Workspace tools (docs, sheets, etc)
 - Familiarity with Microsoft, MacOS, and Linux
@@ -21,7 +21,8 @@ _An experienced writer and editor seeking technical writing opportunities_
 - General knowledge of HTML, CSS, and JavaScript
 - General knowledge of Markdown, JSON, and XML
 - Basic knowledge of Git, GitHub, and version control systems
-- Basic familiarity with the Software Development Life Cycle (SDLC) and software architecture
+- Basic familiarity with the Software Development Life Cycle (SDLC) and software architecture 
+___
 ## Work Experience
 **Freelance Content Writer** *(October 2018 to Present)*
 - Writes blog posts, meta descriptions, and website copies
@@ -40,9 +41,15 @@ _An experienced writer and editor seeking technical writing opportunities_
 - Mentored new writers and blog managers
 - Coordinated with the sales, web development, social media, and link-building teams  
 
-**Content Writer** [SEO Hacker](https://seo-hacker.com/) *(December 2017 to February 2018)*
-- Produced high-quality blog posts, landing pages, website copies, and social media captions
+**Content Writer** @ [SEO Hacker](https://seo-hacker.com/) *(December 2017 to February 2018)*
+- Produced high-quality blog posts, landing pages, website copies, and social media captions 
+___
 ## Education
 **Bachelor of Arts in Creative Writing** @ [UP Diliman](https://upd.edu.ph/) *2013 to 2017*
 - Graduated with honors (*cum laude*)
-- Has taken courses in computer science, elementary analysis, fundamental physics, and mathematical physics
+- Has taken courses in computer science, elementary analysis, fundamental physics, and mathematical physics  
+___
+## Certifications 
+
+
+
