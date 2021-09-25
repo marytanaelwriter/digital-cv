@@ -2,6 +2,7 @@
 _An experienced writer and editor seeking technical writing opportunities_  
 
 [Email](mailto:marytanaelwriter@gmail.com)/ [LinkedIn](https://www.linkedin.com/in/marytanaelwriter)/ [GitHub](https://github.com/marytanaelwriter)  
+  
 ## 👩‍💻 Skills
 ### Writing and Editing Skills
 
@@ -23,6 +24,7 @@ _An experienced writer and editor seeking technical writing opportunities_
 - General knowledge of Markdown, JSON, and XML
 - Basic knowledge of Git, GitHub, and version control systems
 - Basic familiarity with the Software Development Life Cycle (SDLC) and software architecture  
+  
  
 ## 💼 Work Experience
 **Freelance Content Writer** *(October 2018 to Present)*
@@ -45,6 +47,7 @@ _An experienced writer and editor seeking technical writing opportunities_
 **Content Writer** @ [SEO Hacker](https://seo-hacker.com/) *(December 2017 to February 2018)*
 - Produced high-quality blog posts, landing pages, website copies, and social media captions  
 
+  
 ## 📚 Certifications  
 
 **Technical Writing: Quick Start Guides**  
@@ -78,12 +81,14 @@ _An experienced writer and editor seeking technical writing opportunities_
 **Content Strategy for Professionals: Engaging Audiences**  
 [Coursera](https://www.google.com/?client=safari) | *Issued January 2021*  
 
+  
 ## 🗣️ Languages 
 
 **Tagalog**: Native or bilingual proficiency  
 **English**: Native or bilingual proficiency  
 **Spanish**: Elementary proficiency   
 
+  
 ## 🎓 Education
 **Bachelor of Arts in Creative Writing** @ [UP Diliman](https://upd.edu.ph/) *(2014 to 2017)*
 - Graduated with honors (*cum laude*)
