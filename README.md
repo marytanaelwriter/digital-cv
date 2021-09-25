@@ -111,9 +111,9 @@ _An experienced writer and editor seeking technical writing opportunities_
   -  Mathematical physics
   -  Computer science   
  
- ## 💌 Let's keep in touch!  
+## 💌 Let's keep in touch!  
  
  Do you have any questions or do you want to work with me?  
  
- Drop me a line [here](mailto:marytanaelwriter@gmail.com). I look forward to hearing from you.
+ Drop me a line [here](mailto:marytanaelwriter@gmail.com). I look forward to hearing from you. 🌟
 
