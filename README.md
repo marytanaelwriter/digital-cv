@@ -1,5 +1,6 @@
 # Mary Antonette Tanael
 _An experienced writer and editor seeking technical writing opportunities_  
+_Based in the Philippines_ 🇵🇭  
 
 [Email](mailto:marytanaelwriter@gmail.com)/ [LinkedIn](https://www.linkedin.com/in/marytanaelwriter)/ [GitHub](https://github.com/marytanaelwriter)  
 ## 👩‍💻 Skills
@@ -61,9 +62,26 @@ _An experienced writer and editor seeking technical writing opportunities_
   -  Mathematical physics
   -  Computer science
 
-## 📚 Certifications 
+## 📚 Certifications  
 
-## 🗣️ Languages
+**Technical Writing: Quick Start Guides** | LinkedIn Learning *(Issued September 2021)*  
+
+**HTML Essential Training** | LinkedIn Learning *(Issued September 2021)*  
+
+**Learning Markdown** | LinkedIn Learning (Issued September 2021)*  
+
+**Software Development Life Cycle (SDLC)** | LinkedIn Learning *(Issued September 2021)*  
+
+**Google SEO Fundamentals** | Coursera *(Issued July 2021)*  
+
+**Introduction to Google SEO** | Coursera *(Issued January 2021)*  
+
+**Content Strategy for Professionals: Managing Content** | Coursera *(Issued May 2021)*  
+
+**Content Strategy for Professionals: Engaging Audiences** | Coursera *(Issued January 2021)*  
+
+## 🗣️ Languages 
+
 **Tagalog**: Native  
 
 **English**: Bilingual
