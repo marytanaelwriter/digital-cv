@@ -111,7 +111,7 @@ _An experienced writer and editor seeking technical writing opportunities_
   -  Mathematical physics
   -  Computer science   
  
-## 💌 Let's keep in touch!  
+## 💌 Let's Keep in Touch!
  
  Do you have any questions or do you want to work with me?  
  
