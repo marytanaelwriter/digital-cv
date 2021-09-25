@@ -53,7 +53,6 @@ _An experienced writer and editor seeking technical writing opportunities_
 - Has done extensive research on literature, media, and the social sciences
 
 **Bachelor of Science in Applied Physics** @ [UP Diliman](https://upd.edu.ph/) *(2013 to 2014)*
-- Graduated with honors (*cum laude*)
 - Has taken courses in:
   -  College algebra
   -  Trigonometry
@@ -65,6 +64,7 @@ _An experienced writer and editor seeking technical writing opportunities_
 ## 📚 Certifications 
 
 ## 🗣️ Languages
-**Tagalog**: Native
+**Tagalog**: Native  
+
 **English**: Bilingual
 
