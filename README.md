@@ -9,6 +9,7 @@ _An experienced writer and editor seeking technical writing opportunities_
  - General knowledge of technical writing
  - Copywriting 
  - Content strategy 
+ - Content marketing
  - Blog management
  - Proofreading and editing 
  - Search Engine Optimization (SEO)
@@ -45,9 +46,21 @@ _An experienced writer and editor seeking technical writing opportunities_
 - Produced high-quality blog posts, landing pages, website copies, and social media captions  
 
 ## Education
-**Bachelor of Arts in Creative Writing** @ [UP Diliman](https://upd.edu.ph/) *2013 to 2017*
+**Bachelor of Arts in Creative Writing** @ [UP Diliman](https://upd.edu.ph/) *2014 to 2017*
 - Graduated with honors (*cum laude*)
-- Has taken courses in computer science, elementary analysis, fundamental physics, and mathematical physics  
+- Has taken courses in fiction, nonfiction, poetry, and professional writing
+- Has written essays, creative works, and critical papers
+- Has done extensive research on literature, media, and the social sciences
+
+**Bachelor of Science in Applied Physics** @ [UP Diliman](https://upd.edu.ph/) *2013 to 2014*
+- Graduated with honors (*cum laude*)
+- Has taken courses in:
+  -  College algebra
+  -  Trigonometry
+  -  Elementary analysis
+  -  Fundamental physics
+  -  Mathematical physics
+  -  Computer science
 
 ## Certifications 
 
