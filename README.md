@@ -23,6 +23,7 @@ Also open for freelance writing and editing work._
 - Familiarity with Google Workspace tools (docs, sheets, etc)
 - Familiarity with Microsoft, MacOS, and Linux
 - Has experience publishing and managing content on WordPress
+- Basic knowledge of web design and web development
 - General knowledge of HTML, CSS, and JavaScript
 - General knowledge of Markdown, JSON, and XML
 - Basic knowledge of Git, GitHub, and version control systems
@@ -117,4 +118,3 @@ Also open for freelance writing and editing work._
  Do you have any questions or do you want to work with me?  
  
  Drop me a line [here](mailto:marytanaelwriter@gmail.com). I look forward to hearing from you. 💖
-
