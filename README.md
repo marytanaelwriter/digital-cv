@@ -1,6 +1,6 @@
 # Mary Antonette Tanael
-_An experienced writer seeking technical writing opportunities.  
-Also open for freelance writer and editing work._  
+_An experienced writer seeking technical writing opportunities. 👋  
+Also open for freelance writing and editing work._  
 
 [Email](mailto:marytanaelwriter@gmail.com)/ [LinkedIn](https://www.linkedin.com/in/marytanaelwriter)/ [GitHub](https://github.com/marytanaelwriter)  
   
