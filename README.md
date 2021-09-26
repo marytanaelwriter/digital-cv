@@ -2,7 +2,7 @@
 _An experienced writer seeking technical writing opportunities.  
 Also open for freelance writing and editing work._  
 
-[Email](mailto:marytanaelwriter@gmail.com) ◽ [LinkedIn](https://www.linkedin.com/in/marytanaelwriter)  
+[Email](mailto:marytanaelwriter@gmail.com)/ [LinkedIn](https://www.linkedin.com/in/marytanaelwriter)  
   
   
   
