@@ -73,19 +73,19 @@ Also open for freelance writing and editing work._
 
 
 **Google SEO Fundamentals**  
-[Coursera](https://www.google.com/?client=safari) | *Issued July 2021*  
+[Coursera](https://www.coursera.org/account/accomplishments/certificate/69HGT4WDXUSY) | *Issued July 2021*  
 
 
 **Introduction to Google SEO**  
-[Coursera](https://www.google.com/?client=safari) | *Issued January 2021*  
+[Coursera](https://www.coursera.org/account/accomplishments/certificate/SV5P8X25MGZX) | *Issued January 2021*  
 
 
 **Content Strategy for Professionals: Managing Content**  
-[Coursera](https://www.google.com/?client=safari) | *Issued May 2021*  
+[Coursera](https://www.coursera.org/account/accomplishments/certificate/UWPXEQ4Z7E4L) | *Issued May 2021*  
 
 
 **Content Strategy for Professionals: Engaging Audiences**  
-[Coursera](https://www.google.com/?client=safari) | *Issued January 2021*  
+[Coursera](https://www.coursera.org/account/accomplishments/certificate/9WCK9SXP8UCK) | *Issued January 2021*  
 
   
   
