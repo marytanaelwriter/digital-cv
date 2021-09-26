@@ -56,7 +56,15 @@ Also open for freelance writing and editing work._
   
 ## 📚 Certifications  
 
-**Technical Writing: Quick Start Guides**  
+**Learning GitHub**  
+[LinkedIn Learning](https://www.google.com/?client=safari) | *Issued September 2021*  
+
+
+**Learning Markdown**  
+[LinkedIn Learning](https://www.google.com/?client=safari) | *Issued September 2021*  
+
+
+**CSS Essential Training**  
 [LinkedIn Learning](https://www.google.com/?client=safari) | *Issued September 2021*  
 
 
@@ -64,7 +72,7 @@ Also open for freelance writing and editing work._
 [LinkedIn Learning](https://www.google.com/?client=safari) | *Issued September 2021*  
 
 
-**Learning Markdown**  
+**Technical Writing: Quick Start Guides**  
 [LinkedIn Learning](https://www.google.com/?client=safari) | *Issued September 2021*  
 
 
